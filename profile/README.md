@@ -6,6 +6,14 @@ Codnov builds intelligent software products — from concept to production. We s
 
 ---
 
+## Leadership
+
+| Role | Name | Contact |
+|------|------|---------|
+| Tech Head | Nidin Nover | nidin@codnov.ai |
+
+---
+
 ## What We Build
 
 - **AI-first platforms** — natural language interfaces, automated workflows, intelligent routing
