@@ -1,47 +1,46 @@
-# Codnov.ai
+# Codnov.AI
 
-**AI product development studio.**
+**Building the technology engine for the future.**
 
-Codnov builds intelligent software products — from concept to production. We specialize in AI-powered platforms for education, recruitment, and enterprise operations.
+Codnov is an AI product development company. We design, build, and scale intelligent software products — from concept to production — for education, recruitment, and enterprise operations.
 
 ---
+
+## What We Build
+
+- **AI-powered platforms** — natural language interfaces, automated workflows, intelligent routing
+- **Full-stack products** — backend APIs, web portals, dashboards, mobile apps
+- **Enterprise infrastructure** — multi-tenant architecture, RBAC, audit trails, real-time systems
+
+## Tech Stack
+
+| Layer | Technologies |
+|-------|-------------|
+| Backend | Python 3.12, FastAPI, SQLAlchemy (async), PostgreSQL |
+| Frontend | Next.js 15, TypeScript, Tailwind CSS 4 |
+| Mobile | Expo, React Native |
+| AI | OpenAI, Anthropic, Groq |
+| Infra | DigitalOcean, Vercel, Cloudflare, GitHub Actions |
+
+## Products
+
+| Product | Domain |
+|---------|--------|
+| Codnov.AI | [codnov.ai](https://codnov.ai) |
+
+## Contributing
+
+All code changes go through Pull Requests. See individual repo READMEs for setup instructions.
+
+- Use feature branches: `feat/your-feature`, `fix/your-fix`
+- PRs require review before merge
+- CI must pass before merge
 
 ## Leadership
 
 | Role | Name | Contact |
 |------|------|---------|
 | Tech Head | Nidin Nover | nidin@codnov.ai |
-
----
-
-## What We Build
-
-- **AI-first platforms** — natural language interfaces, automated workflows, intelligent routing
-- **Full-stack products** — backend APIs, web portals, dashboards, mobile apps
-- **Enterprise-grade infrastructure** — multi-tenant architecture, RBAC, audit trails, real-time systems
-
----
-
-## Tech Stack
-
-- **Backend**: Python 3.12, FastAPI, SQLAlchemy (async), PostgreSQL
-- **Frontend**: Next.js, TypeScript, Tailwind CSS
-- **Mobile**: Expo / React Native
-- **AI**: OpenAI, Anthropic, Groq
-- **Infra**: DigitalOcean, Neon, Vercel, Cloudflare, GitHub Actions
-
----
-
-## Repositories
-
-| Repo | Description |
-|------|-------------|
-| `codnov-website` | Company website — [codnov.ai](https://codnov.ai) |
-| `codnov-web` | Developer portal |
-| `codnov-dashboard` | Internal project dashboard |
-| `codnov-dev-hub` | Engineering tooling and internal utilities |
-| `codnov-app` | Mobile app (user-facing) |
-| `codnov-app-internal` | Mobile app (internal) |
 
 ---
 
